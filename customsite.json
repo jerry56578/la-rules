@@ -1,11 +1,11 @@
 {
-  "version": 1,
-  "rules": \[
+  "version": 2,
+  "rules": [
     {
-      "domain\_suffix": \[
+      "domain_suffix": [
         "msn.com",
         "w-inds.cn"
-      \]
+      ],
     }
-  \]
+  ]
 }
